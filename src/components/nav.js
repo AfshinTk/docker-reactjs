@@ -9,8 +9,8 @@ export default class Nav extends Component {
             <a href="/" className="brand-logo">Logo</a>
             <ul id="nav-mobile" className="right hide-on-med-and-down">
               <li><a href="/">HOME</a></li>
-              <li><a href="https://www.facebook.com">FACEBOOK</a></li>
-              <li><a href="https://www.linkedin.com">LINKED IN</a></li>
+              <li><a href="https://www.t.me/Mohamad_Kv">BELOVED MAMAD</a></li>
+              <li><a href="https://www.iot-aut.glitch.me">MONITORING</a></li>
             </ul>
           </div>
         </nav>
